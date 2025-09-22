@@ -54,7 +54,7 @@ npm start
 
 Pronto, processo de configuração de ambiente finalizado.
 
-**OBS:** *Faça o fork do projeto caso prefira ou não consiga realizar o clone projeto.*
+**OBS:** *Faça o fork do projeto caso prefira ou não consiga realizar o clone do projeto.*
 
 ## 🛠️ Tecnologias
 - [Next.js](https://nextjs.org/)  
