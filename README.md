@@ -1,5 +1,3 @@
-<img src="./.github/kino-logo.png" alt="Logo do Kino" />
-
 # 🎬 Kino
 Kino é um projeto que exibe filmes, séries e etc. No qual você pode ver tudo sobre seus filmes e séries desejadas, além disso é possível saber mais sobre o elenco dos filmes e séries.
 
