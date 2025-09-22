@@ -24,7 +24,7 @@ Kino é um projeto que exibe filmes, séries e etc. No qual você pode ver tudo 
 3. No terminal, clone o repositório do projeto digitando o seguinte comando:
 
 ```bash
-  git clone 
+  git clone https://github.com/alissonromaosantos/kino.git
 ```
 
 4. Navegue até a página do projeto com o seguintes comando:
@@ -66,7 +66,7 @@ Pronto, processo de configuração de ambiente finalizado.
 
 ## 🚀 Deploy
 ```txt
-https://
+https://kino-q1wy-cq5qsqdoo-alissons-projects-6c94b02a.vercel.app/filmes
 ```
 
 ---
